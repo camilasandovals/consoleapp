@@ -1,0 +1,15 @@
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/bin/Debug/net7.0/consoleapp
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/bin/Debug/net7.0/consoleapp.deps.json
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/bin/Debug/net7.0/consoleapp.runtimeconfig.json
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/bin/Debug/net7.0/consoleapp.dll
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/bin/Debug/net7.0/consoleapp.pdb
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.csproj.AssemblyReference.cache
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfoInputs.cache
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfo.cs
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.csproj.CoreCompileInputs.cache
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.dll
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/refint/consoleapp.dll
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.pdb
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/consoleapp.genruntimeconfig.cache
+/Users/mariacamilasandovalsantana/Desktop/Code/dotnet/consoleapp/obj/Debug/net7.0/ref/consoleapp.dll
